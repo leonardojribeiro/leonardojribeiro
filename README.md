@@ -7,6 +7,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardojribeiro&show_icons=true&theme=synthwave&locale=pt-br"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJRibeiro&layout=compact&theme=synthwave&locale=pt-br"/>
 </div>
+
 #### Atualmente trabalho com:
 
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
