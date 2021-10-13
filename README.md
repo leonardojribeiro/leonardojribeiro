@@ -2,13 +2,9 @@
 
 #### Bem vindo(a) ao meu Github!
 
-#### Sou graduado em Sistemas de Informação pela [Universidade Estadual de Goiás UnU de Itaberaí](http://www.itaberai.ueg.br/) e desenvolvedor Fullstack.
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardojribeiro&show_icons=true&theme=synthwave&locale=pt-br"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJRibeiro&layout=compact&theme=synthwave&locale=pt-br"/>
-</div>
+#### Sou graduado em Sistemas de Informação pela [Universidade Estadual de Goiás UnU de Itaberaí](http://www.itaberai.ueg.br/) (2017 - 2021) e desenvolvedor Fullstack.
 
-#### Atualmente trabalho com:
+#### Atualmente atuo como freelance no ramo de desenvolvimento de aplicativos utilizando as seguintes tecnologias:
 
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,6 +33,12 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+#### Nas horas vagas costumo brincar com Arduino, STM-32 e projetos eletrônicos, eletricos ou mecânicos.
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardojribeiro&show_icons=true&theme=synthwave&locale=pt-br"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJRibeiro&layout=compact&theme=synthwave&locale=pt-br"/>
+</div>
 
 #### Contato: 
  [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ribeiro-1671981b3/)
