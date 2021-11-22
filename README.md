@@ -41,7 +41,6 @@
 </div>
 
 ## Apps desenvolvidos:
-<hr/> 
   <div align="center">
 
   ### Guia Ummix Cidade de Goiás
@@ -61,7 +60,7 @@
   ### Desenvolvido para a apresentação dos perfis das mulheres empreendedoras do município de Goiás. Uma iniciativa da vereadora Elenízia da Mata para oferecer maior visibilidade ao negócio das empreendedoras que estiverem interessadas em criar o seu perfil na plataforma.
   [![google play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ribeiro.leonardo.empreendedorasdegoias) 
   [![](https://img.shields.io/badge/website-000000?style=for-the-badge&=&logoColor=white)](https://mulheresdegoyaz.com.br/)  
-<hr/>
+
 
 ## Contato: 
  [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ribeiro-1671981b3/)
