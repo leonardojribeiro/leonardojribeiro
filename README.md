@@ -48,7 +48,7 @@
   <img src='./images/guia.png' height='450px'> 
 </div>
   
-  ### Esse App possibilita que os anunciantes da cidade de Goiás possam se inscrever a fim de divulgar seu negócio e disponibilizar cupons de desconto que poderão ser adquiridos pelos usuários do app. 
+  ### Idealizado para que que os anunciantes da cidade de Goiás possam se inscrever a fim de divulgar seu negócio e disponibilizar cupons de desconto que poderão ser adquiridos pelos usuários do app. 
   [![google play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ummix.guia_ummix) 
   [![](https://img.shields.io/badge/website-000000?style=for-the-badge&=&logoColor=white)](https://guiacidadedegoias.ummix.com.br/)  
 <hr/> 
@@ -58,7 +58,7 @@
   <img src='./images/meg.png' height='450px'> 
 </div>
   
-  ### Esse App foi desenvolvido para a apresentação dos perfis das mulheres empreendedoras do município de Goiás. Uma iniciativa da vereadora Elenízia da Mata para oferecer maior visibilidade ao negócio das empreendedoras que estiverem interessadas em criar o seu perfil na plataforma.
+  ### Desenvolvido para a apresentação dos perfis das mulheres empreendedoras do município de Goiás. Uma iniciativa da vereadora Elenízia da Mata para oferecer maior visibilidade ao negócio das empreendedoras que estiverem interessadas em criar o seu perfil na plataforma.
   [![google play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ribeiro.leonardo.empreendedorasdegoias) 
   [![](https://img.shields.io/badge/website-000000?style=for-the-badge&=&logoColor=white)](https://mulheresdegoyaz.com.br/)  
 <hr/>
