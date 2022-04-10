@@ -61,7 +61,16 @@
   [![google play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ribeiro.leonardo.empreendedorasdegoias) 
   [![](https://img.shields.io/badge/website-000000?style=for-the-badge&=&logoColor=white)](https://mulheresdegoyaz.com.br/)  
 
+<hr/> 
+  <div align="center">
 
+  ### App Minha Loja - Amanda Modas
+  <img src='./images/app_minha_loja.png' height='450px'> 
+</div>
+  
+  ### Construído para possibilitar a divulgação de produtos oferecidos por pequenas e médias lojas, dos mais diversos segmentos. Com ele, é possível organizar os produtos através de coleções e categorias. Os clientes poderão adicionar os produtos ao carrinho e efetuar pedidos para então serem redirecionados para o WhatsApp para a negociação de pagamentos e retiradas. Este é um app modular, que será integrado com novas funcionalidades de acordo com as necessidades dos nossos clientes.
+  [![google play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.vilaboatech.amanda_modas) 
+  [![](https://img.shields.io/badge/website-000000?style=for-the-badge&=&logoColor=white)](https://amandamodasgoias.com.br/) 
 ## Contato: 
  [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ribeiro-1671981b3/)
  [![gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardojr410@gmail.com)
