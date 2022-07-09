@@ -10,7 +10,7 @@ Iniciei os estudos com HTML e Portugol (Pascal traduzido para português), depoi
 Terminei a faculdade no forte da pandemia da COVID-19 e tudo estava muito incerto. Até que em março de 2021 fui convidado para desenvolver o back-end de um aplicativo de guia comercial. A partir de então, evolui muito como desenvolvedor, utilizando sempre as melhores práticas e evoluindo significamente a cada novo projeto. Durante esse período também refinei meus conhecimentos no Flutter, pois era uma tecnologia que eu havia tido apenas um contato superficial em meados de 2019 e era algo que eu queria muito aprender.
 
 ## Trabalho
-Atualmente atuo como freelance no ramo de desenvolvimento de aplicativos utilizando as seguintes tecnologias:
+Atualmente trabalho como freelancer em desenvolvimento de sites, aplicativos e web services utilizando as seguintes tecnologias:
 
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -45,7 +45,7 @@ Atualmente atuo como freelance no ramo de desenvolvimento de aplicativos utiliza
 ## Hobbies 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP-32](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP-32](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![STM-32)(https://img.shields.io/static/v1?label=&message=STM-32&color=blue)
 
 ## Estatísticas
 <div align="center">
