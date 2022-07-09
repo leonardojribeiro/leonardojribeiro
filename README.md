@@ -45,7 +45,7 @@ Atualmente trabalho como freelancer em desenvolvimento de sites, aplicativos e w
 ## Hobbies 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP-32](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![STM-32](https://img.shields.io/static/v1?label=&message=STM-32&color=blue
+![STM-32](https://img.shields.io/static/v1?label=&message=STM-32&color=blue)
 
 ## Estatísticas
 <div align="center">
