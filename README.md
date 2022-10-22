@@ -8,9 +8,14 @@ Descobri o universo da programação em meados de 2016, quando montava arquivos 
 Em 2017, quando iniciei o curso de Sistemas de Informação, passei a compreender como a aplicação do raciocínio lógico era fundamental nesse meio, foi quando descobri a existência de estruturas condicionais, de repetição e afins. Percebi que eu era muito bom nisso e sempre conseguia desenvolver e entregar códigos mais completos e bem elaborados.
 Iniciei os estudos com HTML e Portugol (Pascal traduzido para português), depois fui avançando para C, C++, PHP, SQL, JavaScript e Java. Sempre andei um passo a frente e, mesmo diante de alguns obstáculos, tive ótimos resultados. No meu TCC, utilizei tecnologias que não foram vistas durante a formação (Node.js e ReactJS) e consegui alcançar todos os objetivos, desde o front-end até o back-end e o deploy, sendo aprovado com nota máxima.
 Terminei a faculdade no forte da pandemia da COVID-19 e tudo estava muito incerto. Até que em março de 2021 fui convidado para desenvolver o back-end de um aplicativo de guia comercial. A partir de então, evolui muito como desenvolvedor, utilizando sempre as melhores práticas e evoluindo significamente a cada novo projeto. Durante esse período também refinei meus conhecimentos no Flutter, pois era uma tecnologia que eu havia tido apenas um contato superficial em meados de 2019 e era algo que eu queria muito aprender.
+Em agosto de 2022 finalmente iniciei minha carreira formal como desenvolvedor, que desde o primeiro momento tem me agregado muito tanto pessoalmente quanto profissionalmente.
 
 ## Trabalho
-Atualmente trabalho como freelancer em desenvolvimento de sites, aplicativos e web services utilizando as seguintes tecnologias:
+Iniciei minha carreira como freelancer em desenvolvimento de sites, aplicativos e web services.
+
+Atualmente sou desenvolvedor full-stack na [DEVOZ](https://devoz.com.br/).
+
+## Principais hard skills
 
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,16 +27,13 @@ Atualmente trabalho como freelancer em desenvolvimento de sites, aplicativos e w
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-## Outras skills
-### intermediário-avançado:
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![mysql](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Conhecimento básico-intermediário:
+### Em segundo plano atualmente:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
