@@ -55,7 +55,6 @@ const leonardo = {
 - Testing and Automation
 
 ## 📫 Connect with Me
-## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-jardim-ribeiro-1671981b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardojr410@gmail.com)
