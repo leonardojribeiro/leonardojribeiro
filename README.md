@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Leonardo Ribeiro
+# Hi there 👋 I'm Leonardo Jardim Ribeiro
 
 ```typescript
 const leonardo = {
